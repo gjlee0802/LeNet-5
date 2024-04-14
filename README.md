@@ -12,7 +12,7 @@ and I studied how to increase the performance of generalization by applying Shar
 - [Basic LeNet-5](https://github.com/gjlee0802/LeNet-5/blob/master/LeNet-5.ipynb): 98.75%
 - [Sharpness-aware minimization LeNet-5](https://github.com/gjlee0802/LeNet-5/blob/master/LeNet-5_sam_optim.ipynb) : **99.00%**
 
-2. Accuracy on the Noise Test dataset with Gaussian noise (standard deviation: 0.6)
+2. Accuracy on the Noise Test Dataset with Gaussian noise (standard deviation: 0.6)
 - [Basic LeNet-5](https://github.com/gjlee0802/LeNet-5/blob/master/LeNet-5.ipynb): 92.31%
 - [Sharpness-aware minimization LeNet-5](https://github.com/gjlee0802/LeNet-5/blob/master/LeNet-5_sam_optim.ipynb) : **97.86%**
 
