@@ -22,9 +22,11 @@ On the other hand, the improved version LeNet-5 with Sharpness-aware minimizatio
 
 ### Reference
 Sharpness-aware minimization is a way to improve generalization performance. Check out the paper below.  
-[Pierre Foret, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. Sharpness-aware minimization for efficiently improving generalization. In International Conference on Learning
+- [Pierre Foret, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. Sharpness-aware minimization for efficiently improving generalization. In International Conference on Learning
 Representations, 2021.](https://arxiv.org/pdf/2010.01412.pdf)  
 
+- [SAM: Sharpness-Aware Minimization (PyTorch)](https://github.com/davda54/sam)  
+
 You can find a summary of Sharpness-aware minimization below.  
-https://github.com/gjlee0802/publications_summary/blob/main/Sharpness-Aware_Minimization_for_Efficiently_Improving_Generalization.md  
-https://github.com/gjlee0802/publications_summary/blob/main/generalization_bounds.md  
+- https://github.com/gjlee0802/publications_summary/blob/main/Sharpness-Aware_Minimization_for_Efficiently_Improving_Generalization.md  
+- https://github.com/gjlee0802/publications_summary/blob/main/generalization_bounds.md  
