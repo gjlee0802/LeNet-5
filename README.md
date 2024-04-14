@@ -8,7 +8,7 @@ I've seen previous studies that the sharpness of loss landscape affects the perf
 and I studied how to increase the performance of generalization by applying Sharpness Aware Minimization on LeNet-5.  
 
 ### Performance
-1. Accuracy for Pure Test Datasets (with No Variations)
+1. Accuracy for Pure Test Dataset (with No Variations)
 - [Basic LeNet-5](https://github.com/gjlee0802/LeNet-5/blob/master/LeNet-5.ipynb): 98.75%
 - [Sharpness-aware minimization LeNet-5](https://github.com/gjlee0802/LeNet-5/blob/master/LeNet-5_sam_optim.ipynb) : **99.00%**
 
