@@ -34,3 +34,30 @@ Representations, 2021.](https://arxiv.org/pdf/2010.01412.pdf)
 You can find a summary of Sharpness-aware minimization below.  
 - https://github.com/gjlee0802/publications_summary/blob/main/Sharpness-Aware_Minimization_for_Efficiently_Improving_Generalization.md  
 - https://github.com/gjlee0802/publications_summary/blob/main/generalization_bounds.md  
+
+
+### Citation
+~~~
+@inproceedings{foret2021sharpnessaware,
+  title={Sharpness-aware Minimization for Efficiently Improving Generalization},
+  author={Pierre Foret and Ariel Kleiner and Hossein Mobahi and Behnam Neyshabur},
+  booktitle={International Conference on Learning Representations},
+  year={2021},
+  url={https://openreview.net/forum?id=6Tm1mposlrM}
+}
+@inproceesings{pmlr-v139-kwon21b,
+  title={ASAM: Adaptive Sharpness-Aware Minimization for Scale-Invariant Learning of Deep Neural Networks},
+  author={Kwon, Jungmin and Kim, Jeongseop and Park, Hyunseo and Choi, In Kwon},
+  booktitle ={Proceedings of the 38th International Conference on Machine Learning},
+  pages={5905--5914},
+  year={2021},
+  editor={Meila, Marina and Zhang, Tong},
+  volume={139},
+  series={Proceedings of Machine Learning Research},
+  month={18--24 Jul},
+  publisher ={PMLR},
+  pdf={http://proceedings.mlr.press/v139/kwon21b/kwon21b.pdf},
+  url={https://proceedings.mlr.press/v139/kwon21b.html},
+  abstract={Recently, learning algorithms motivated from sharpness of loss surface as an effective measure of generalization gap have shown state-of-the-art performances. Nevertheless, sharpness defined in a rigid region with a fixed radius, has a drawback in sensitivity to parameter re-scaling which leaves the loss unaffected, leading to weakening of the connection between sharpness and generalization gap. In this paper, we introduce the concept of adaptive sharpness which is scale-invariant and propose the corresponding generalization bound. We suggest a novel learning method, adaptive sharpness-aware minimization (ASAM), utilizing the proposed generalization bound. Experimental results in various benchmark datasets show that ASAM contributes to significant improvement of model generalization performance.}
+}
+~~~
